@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xeb77ca46ff5b0787d81df717e43d1fdc15051c8d",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x16701cb60e87cdeff6011d49d017c88f906791d2",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "HorrorClub",
+  "SYMBOL": "HRCB",
+  "MAX_SUPPLY": 6666,
+  "WEI_COST": 66000000000000000,
+  "DISPLAY_COST": 0.066,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/horrorclub",
+  "SHOW_BACKGROUND": true
+}
